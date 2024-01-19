@@ -1,0 +1,1 @@
+# TC4033.10.Equipo13-Algoritmos_de_mejoramiento_de_imagenes_basado_por_pixeles
