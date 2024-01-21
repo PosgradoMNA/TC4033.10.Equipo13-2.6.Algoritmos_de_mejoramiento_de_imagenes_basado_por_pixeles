@@ -2,11 +2,9 @@
 
 ## Alumnos
 
-- Víctor Hugo Avila Felipe
-- Erik López Hernández
 - César Iván Pedrero Martínez
+- Erik López Hernández
 - Carlos Alberto Reynoso González
-- Hugo Enrique Solano Ortega
 
 ## Instrucciones
 
